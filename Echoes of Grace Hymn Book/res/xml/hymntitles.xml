@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hymns hymnbookid="EGHB">
+  <hymn id="1"  Title="&#34;Come!&#34; &#39;Tis Jesus Gently Calling" TitleSort="COME TIS JESUS GENTLY CALLING" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="2"  Title="As the Serpent Raised by Moses" TitleSort="AS THE SERPENT RAISED BY MOSES" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="3"  Title="Behold, Behold the Lamb of God" TitleSort="BEHOLD BEHOLD THE LAMB OF GOD" Author="Jukes" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="4"  Title="Behold the Saviour at the Door" TitleSort="BEHOLD THE SAVIOUR AT THE DOOR" Author="" Meter="8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="5"  Title="By Faith I See the Saviour Dying" TitleSort="BY FAITH I SEE THE SAVIOUR DYING" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="6"  Title="&#34;Come Unto Me.&#34; It Is the Saviour&#39;s Voice" TitleSort="COME UNTO ME IT IS THE SAVIOURS VOICE" Author="" Meter="10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="7"  Title="My Hope on Nothing Less Is Built" TitleSort="MY HOPE ON NOTHING LESS IS BUILT" Author="" Meter="8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="8"  Title="Come, Weary, Anxious, Laden Soul" TitleSort="COME WEARY ANXIOUS LADEN SOUL" Author="" Meter="8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="9"  Title="Redeemed by Blood, the Work of Love" TitleSort="REDEEMED BY BLOOD THE WORK OF LOVE" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="10"  Title="Faith Is a Very Simple Thing" TitleSort="FAITH IS A VERY SIMPLE THING" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="11"  Title="On Calvary&#39;s Cross, Behold the One" TitleSort="ON CALVARYS CROSS BEHOLD THE ONE" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="12"  Title="God Loved the World So Tenderly" TitleSort="GOD LOVED THE WORLD SO TENDERLY" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="13"  Title="Grace! &#39;Tis a Charming Sound" TitleSort="GRACE TIS A CHARMING SOUND" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="14"  Title="God Loved the World of Sinners Lost" TitleSort="GOD LOVED THE WORLD OF SINNERS LOST" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="15"  Title="Oh, What a Gift the Father Gave" TitleSort="OH WHAT A GIFT THE FATHER GAVE" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="16"  Title="God in Mercy Sent His Son" TitleSort="GOD IN MERCY SENT HIS SON" Author="H.K. Burlingham" Meter="7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="17"  Title="He Comes! He Comes! the Bridegroom Comes" TitleSort="HE COMES HE COMES THE BRIDEGROOM COMES" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="18"  Title="How Precious and Pure Is the Truth" TitleSort="HOW PRECIOUS AND PURE IS THE TRUTH" Author="" Meter="8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="19"  Title="Nothing, Either Great or Small" TitleSort="NOTHING EITHER GREAT OR SMALL" Author="" Meter="7.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="20"  Title="What Means This Eager, Anxious Throng" TitleSort="WHAT MEANS THIS EAGER ANXIOUS THRONG" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="21"  Title="No Room for Thee, Thou Blessed One" TitleSort="NO ROOM FOR THEE THOU BLESSED ONE" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="22"  Title="Jesus Is a Loving Saviour" TitleSort="JESUS IS A LOVING SAVIOUR" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="23"  Title="I Will Sing of My Redeemer" TitleSort="I WILL SING OF MY REDEEMER" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="24"  Title="Jesus Only Can Impart" TitleSort="JESUS ONLY CAN IMPART" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="25"  Title="Oh, Have You Not Heard of That Wonderful Love" TitleSort="OH HAVE YOU NOT HEARD OF THAT WONDERFUL LOVE" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="1101" ></hymn>
+  <hymn id="26"  Title="In Rags and in Ruin, Without and Within" TitleSort="IN RAGS AND IN RUIN WITHOUT AND WITHIN" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="27"  Title="Oh, What a Glorious Truth Is This" TitleSort="OH WHAT A GLORIOUS TRUTH IS THIS" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="28"  Title="Oh, What a Saviour Is Jesus the Lord" TitleSort="OH WHAT A SAVIOUR IS JESUS THE LORD" Author="" Meter="10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="29"  Title="Come, Every Soul by Sin Oppressed" TitleSort="COME EVERY SOUL BY SIN OPPRESSED" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="30"  Title="Passing Onward, Quickly Passing" TitleSort="PASSING ONWARD QUICKLY PASSING" Author="" Meter="8.7.8.7.4.7.4.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="31"  Title="Precious, Precious Blood of Jesus" TitleSort="PRECIOUS PRECIOUS BLOOD OF JESUS" Author="" Meter="8.5.8.3." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="32"  Title="Yet There Is Room! The Lamb&#39;s Bright Hall of Song" TitleSort="YET THERE IS ROOM THE LAMBS BRIGHT HALL OF SONG" Author="" Meter="10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="33"  Title="O Christ, What Burdens Bowed Thy Head" TitleSort="O CHRIST WHAT BURDENS BOWED THY HEAD" Author="Mrs. Cousins" Meter="8.6.8.6.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="34"  Title="Salvation Through Christ Jesus" TitleSort="SALVATION THROUGH CHRIST JESUS" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="35"  Title="Shall We Gather at His Coming" TitleSort="SHALL WE GATHER AT HIS COMING" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="36"  Title="&#34;Stricken, Smitten and Afflicted,&#34;" TitleSort="STRICKEN SMITTEN AND AFFLICTED" Author="T. Kelly" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="37"  Title="Tell Me the Old, Old Story" TitleSort="TELL ME THE OLD OLD STORY" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="38"  Title="The Gospel Bells Are Ringing" TitleSort="THE GOSPEL BELLS ARE RINGING" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="101" ></hymn>
+  <hymn id="39"  Title="He Knew No Sin, That Holy One" TitleSort="HE KNEW NO SIN THAT HOLY ONE" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="40"  Title="The Gospel of Thy Grace" TitleSort="THE GOSPEL OF THY GRACE" Author="" Meter="6.6.6.6.8.8.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="41"  Title="The Heavenly Bridegroom Soon Will Come" TitleSort="THE HEAVENLY BRIDEGROOM SOON WILL COME" Author="" Meter="8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="42"  Title="The Great Physician Now Is Near" TitleSort="THE GREAT PHYSICIAN NOW IS NEAR" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="43"  Title="&#34;Behold the Lamb&#34; Enthroned on High" TitleSort="BEHOLD THE LAMB ENTHRONED ON HIGH" Author="G.W. Frazer" Meter="P.M." StanzaIndent="2020002" ChorusIndent="" ></hymn>
+  <hymn id="44"  Title="Just as I Am--Without One Plea" TitleSort="JUST AS I AM WITHOUT ONE PLEA" Author="" Meter="8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="45"  Title="The Wanderer No More Will Roam" TitleSort="THE WANDERER NO MORE WILL ROAM" Author="Jane Deck (Mrs. Walker)" Meter="8.8.8.6.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="46"  Title="&#34;Too Late, Too Late!&#34; How Sad the Sound" TitleSort="TOO LATE TOO LATE HOW SAD THE SOUND" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="47"  Title="Rise, Dear Soul! Behold the Saviour" TitleSort="RISE DEAR SOUL BEHOLD THE SAVIOUR" Author="A.P. Cecil" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="48"  Title="There Is Life in a Look at the Crucified One" TitleSort="THERE IS LIFE IN A LOOK AT THE CRUCIFIED ONE" Author="Miss A.M. Hull" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="49"  Title="Oh, What a Saviour That He Died for Me" TitleSort="OH WHAT A SAVIOUR THAT HE DIED FOR ME" Author="" Meter="P.M." StanzaIndent="2" ChorusIndent="2" ></hymn>
+  <hymn id="50"  Title="Vain Is the Thought of Man" TitleSort="VAIN IS THE THOUGHT OF MAN" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="51"  Title="Eternity! Where? It Floats in the Air" TitleSort="ETERNITY WHERE IT FLOATS IN THE AIR" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="52"  Title="Hark! Hark! Hear the Glad Tidings" TitleSort="HARK HARK HEAR THE GLAD TIDINGS" Author="" Meter="P.M." StanzaIndent="1011" ChorusIndent="" ></hymn>
+  <hymn id="53"  Title="Weeping Will Not Save Me" TitleSort="WEEPING WILL NOT SAVE ME" Author="" Meter="P.M." StanzaIndent="1" ChorusIndent="1" ></hymn>
+  <hymn id="54"  Title="We Know There&#39;s a Bright and a Glorious Home" TitleSort="WE KNOW THERES A BRIGHT AND A GLORIOUS HOME" Author="" Meter="10.7.10.7.6.6.10.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="55"  Title="Why Neath the Load of Your Sins Do Ye Toil" TitleSort="WHY NEATH THE LOAD OF YOUR SINS DO YE TOIL" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="56"  Title="Oh Blessed Gospel Sound" TitleSort="OH BLESSED GOSPEL SOUND" Author="" Meter="6.4.6.4.6.6.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="57"  Title="&#34;Almost Persuaded&#34; Now to Believe" TitleSort="ALMOST PERSUADED" Author="" Meter="P.M." StanzaIndent="1101" ChorusIndent="" ></hymn>
+  <hymn id="58"  Title="Why Unbelieving? Why Wilt Thou Spurn" TitleSort="WHY UNBELIEVING WHY WILT THOU SPURN" Author="" Meter="P.M." StanzaIndent="1112" ChorusIndent="" ></hymn>
+  <hymn id="59"  Title="Why Wilt Thou Linger" TitleSort="WHY WILT THOU LINGER" Author="" Meter="P.M." StanzaIndent="1010001" ChorusIndent="" ></hymn>
+  <hymn id="60"  Title="All Ye That Pass by, to Jesus Draw Nigh" TitleSort="ALL YE THAT PASS BY TO JESUS DRAW NIGH" Author="" Meter="11.12.11.12." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="61"  Title="Behold the Lamb! &#39;Tis He Who Bore" TitleSort="BEHOLD THE LAMB TIS HE WHO BORE" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="62"  Title="Behold the Lamb Whose Precious Blood" TitleSort="BEHOLD THE LAMB WHOSE PRECIOUS BLOOD" Author="W. Trotter" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="63"  Title="Broken Heart! the Fountain&#39;s Open" TitleSort="BROKEN HEART THE FOUNTAINS OPEN" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="64"  Title="&#34;Call Them In&#34;--The Poor, the Wretched" TitleSort="CALL THEM IN THE POOR THE WRETCHED" Author="Anna Shipton" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="65"  Title="Christ Is the Only Saviour Mighty to Save" TitleSort="CHRIST IS THE ONLY SAVIOUR MIGHTY TO SAVE" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="66"  Title="A Look to Jesus Saves the Soul" TitleSort="A LOOK TO JESUS SAVES THE SOUL" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="67"  Title="Christ Is Coming. Are You Ready" TitleSort="CHRIST IS COMING ARE YOU READY" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="68"  Title="Christ Is the Saviour of Sinners" TitleSort="CHRIST IS THE SAVIOUR OF SINNERS" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="69"  Title="Come Sing, My Soul, and Praise the Lord" TitleSort="COME SING MY SOUL AND PRAISE THE LORD" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="70"  Title="Christ Is Coming, Oh, Be Ready" TitleSort="CHRIST IS COMING OH BE READY" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="71"  Title="Come, Let Us All Unite to Sing" TitleSort="COME LET US ALL UNITE TO SING" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="72"  Title="Come to the Saviour, Come to the Saviour" TitleSort="COME TO THE SAVIOUR COME TO THE SAVIOUR" Author="" Meter="P.M." StanzaIndent="110" ChorusIndent="" ></hymn>
+  <hymn id="73"  Title="Come to the Saviour Now" TitleSort="COME TO THE SAVIOUR NOW" Author="" Meter="P.M." StanzaIndent="10101012" ChorusIndent="" ></hymn>
+  <hymn id="74"  Title="Come to the Blood-stained Tree" TitleSort="COME TO THE BLOOD STAINED TREE" Author="" Meter="P.M." StanzaIndent="10101012" ChorusIndent="" ></hymn>
+  <hymn id="75"  Title="I Gave My Life for Thee" TitleSort="I GAVE MY LIFE FOR THEE" Author="" Meter="6s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="76"  Title="&#34;Come Unto Me, and I Will Give You Rest!&#34;" TitleSort="COME UNTO ME AND I WILL GIVE YOU REST" Author="" Meter="4-10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="77"  Title="Come, Ye Sinners, Poor and Needy" TitleSort="COME YE SINNERS POOR AND NEEDY" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="78"  Title="Come, Ye That Fear the Lord" TitleSort="COME YE THAT FEAR THE LORD" Author="" Meter="P.M." StanzaIndent="10000" ChorusIndent="" ></hymn>
+  <hymn id="79"  Title="Decide for Christ Today" TitleSort="DECIDE FOR CHRIST TODAY" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="80"  Title="Down From the Glory Came God&#39;s Blessed Son" TitleSort="DOWN FROM THE GLORY CAME GODS BLESSED SON" Author="" Meter="P.M." StanzaIndent="10120" ChorusIndent="" ></hymn>
+  <hymn id="81"  Title="&#34;It Is Finished!&#34; Sinners, Hear It" TitleSort="IT IS FINISHED SINNERS HEAR IT" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="82"  Title="Ere God Had Built the Mountains" TitleSort="ERE GOD HAD BUILT THE MOUNTAINS" Author="Cowper" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="83"  Title="Everlasting Glory" TitleSort="EVERLASTING GLORY" Author="" Meter="11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="84"  Title="Free From the Law, Oh, Happy Condition" TitleSort="FREE FROM THE LAW OH HAPPY CONDITION" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="85"  Title="Just as Thou Art--Without One Trace" TitleSort="JUST AS THOU ART WITHOUT ONE TRACE" Author="" Meter="8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="86"  Title="Hark! the Saviour&#39;s Voice From Heaven" TitleSort="HARK THE SAVIOURS VOICE FROM HEAVEN" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="87"  Title="Hark! Hark! the Voice of Christ, the Sinner&#39;s Saviour" TitleSort="HARK HARK THE VOICE OF CHRIST THE SINNERS SAVIOUR" Author="" Meter="11.10.11.10." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="88"  Title="Hail, Sovereign Love, Which First Began" TitleSort="HAIL SOVEREIGN LOVE WHICH FIRST BEGAN" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="89"  Title="Hark Ye! Those Who Choose the Pleasures" TitleSort="HARK YE THOSE WHO CHOOSE THE PLEASURES" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="90"  Title="Have You Been to Jesus for the Cleansing Power" TitleSort="HAVE YOU BEEN TO JESUS FOR THE CLEANSING POWER" Author="" Meter="11.9.11.9." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="91"  Title="On Christ Salvation Rests Secure" TitleSort="ON CHRIST SALVATION RESTS SECURE" Author="Medley" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="92"  Title="Have You Any Room for Jesus" TitleSort="HAVE YOU ANY ROOM FOR JESUS" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="93"  Title="Ho! Ye That Thirst, Approach the Spring" TitleSort="HO YE THAT THIRST APPROACH THE SPRING" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="94"  Title="Ho, You Thirsty, Jesus Calls You" TitleSort="HO YOU THIRSTY JESUS CALLS YOU" Author="" Meter="8.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="95"  Title="I Have a Glorious Saviour" TitleSort="I HAVE A GLORIOUS SAVIOUR" Author="" Meter="7.6.8.6.8.6.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="96"  Title="If I Gained the World but Lost the Saviour" TitleSort="IF I GAINED THE WORLD BUT LOST THE SAVIOUR" Author="" Meter="10.9.10.9.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="97"  Title="Oh, How Sweet the Gospel Message" TitleSort="OH HOW SWEET THE GOSPEL MESSAGE" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="98"  Title="Just on the Threshold! Oh, Why Not Come In" TitleSort="JUST ON THE THRESHOLD OH WHY NOT COME IN" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="101" ></hymn>
+  <hymn id="99"  Title="My Soul, Repeat His Praise" TitleSort="MY SOUL REPEAT HIS PRAISE" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="100"  Title="Let All Who Know the Joyful Sound" TitleSort="LET ALL WHO KNOW THE JOYFUL SOUND" Author="" Meter="8.8.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="101"  Title="Look, Thou Lost One, to the Saviour" TitleSort="LOOK THOU LOST ONE TO THE SAVIOUR" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="102"  Title="Life at Best Is Very Brief" TitleSort="LIFE AT BEST IS VERY BRIEF" Author="" Meter="P.M." StanzaIndent="20002" ChorusIndent="20002" ></hymn>
+  <hymn id="103"  Title="&#34;Man of Sorrows,&#34; What a Name" TitleSort="MAN OF SORROWS WHAT A NAME" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="104"  Title="Not All the Gold of All the World" TitleSort="NOT ALL THE GOLD OF ALL THE WORLD" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="105"  Title="Nothing but the Name of Jesus" TitleSort="NOTHING BUT THE NAME OF JESUS" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="106"  Title="O Christ, in Thee My Soul Hath Found" TitleSort="O CHRIST IN THEE MY SOUL HATH FOUND" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="107"  Title="Oh, Do Not Let the Word Depart" TitleSort="OH DO NOT LET THE WORD DEPART" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="108"  Title="Oh Precious Blood, on Calvary Shed" TitleSort="OH PRECIOUS BLOOD ON CALVARY SHED" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="109"  Title="Oh, the Love of God Is Boundless" TitleSort="OH THE LOVE OF GOD IS BOUNDLESS" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="110"  Title="Oh, Turn Now! Oh, Turn Now! For Why Will You Die" TitleSort="OH TURN NOW OH TURN NOW FOR WHY WILL YOU DIE" Author="" Meter="11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="111"  Title="Once Again the Gospel Message" TitleSort="ONCE AGAIN THE GOSPEL MESSAGE" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="112"  Title="Naught Have I Gotten but What I Received" TitleSort="NAUGHT HAVE I GOTTEN BUT WHAT I RECEIVED" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="113"  Title="Only a Step to Jesus" TitleSort="ONLY A STEP TO JESUS" Author="" Meter="7.6.7.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="114"  Title="Saved Through the Blood of Jesus" TitleSort="SAVED THROUGH THE BLOOD OF JESUS" Author="" Meter="7.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="115"  Title="Himself He Could Not Save" TitleSort="HIMSELF HE COULD NOT SAVE" Author="A. Midlane" Meter="6.6.6.6.8.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="116"  Title="See Mercy, Mercy From on High" TitleSort="SEE MERCY MERCY FROM ON HIGH" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="117"  Title="Sinner, Thine&#39;s a Lost Condition" TitleSort="SINNER THINES A LOST CONDITION" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="118"  Title="Softly and Tenderly Jesus Is Calling" TitleSort="SOFTLY AND TENDERLY JESUS IS CALLING" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="119"  Title="When God&#39;s Judgment Fell on Egypt" TitleSort="WHEN GODS JUDGMENT FELL ON EGYPT" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="120"  Title="The Father Sent the Son" TitleSort="THE FATHER SENT THE SON" Author="H.K. Burlingham" Meter="6.6.8.4.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="121"  Title="&#34;All Things Are Ready,&#34; Come" TitleSort="ALL THINGS ARE READY COME" Author="Midlane" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="122"  Title="The Holy Lamb Has Died" TitleSort="THE HOLY LAMB HAS DIED" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="123"  Title="The Lamb Was Slain, His Precious Blood" TitleSort="THE LAMB WAS SLAIN HIS PRECIOUS BLOOD" Author="" Meter="6-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="124"  Title="There Is a Saviour on High in the Glory" TitleSort="THERE IS A SAVIOUR ON HIGH IN THE GLORY" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="125"  Title="Who Shall Give Me Rest" TitleSort="WHO SHALL GIVE ME REST" Author="" Meter="P.M." StanzaIndent="1101" ChorusIndent="" ></hymn>
+  <hymn id="126"  Title="There&#39;s a Voice That Is Calling to Thee" TitleSort="THERES A VOICE THAT IS CALLING TO THEE" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="127"  Title="Let Us Sing of His Love Once Again" TitleSort="LET US SING OF HIS LOVE ONCE AGAIN" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="128"  Title="Though All the Beasts That Live and Feed" TitleSort="THOUGH ALL THE BEASTS THAT LIVE AND FEED" Author="T. Kelly" Meter="8.8.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="129"  Title="&#39;Tis a True and Faithful Saying" TitleSort="TIS A TRUE AND FAITHFUL SAYING" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="130"  Title="To God Be the Glory, Great Things He Hath Done" TitleSort="TO GOD BE THE GLORY GREAT THINGS HE HATH DONE" Author="" Meter="11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="131"  Title="We Sing the Praise of Him Who Died" TitleSort="WE SING THE PRAISE OF HIM WHO DIED" Author="T. Kelly, 1815" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="132"  Title="We Have Heard the Joyful Sound" TitleSort="WE HAVE HEARD THE JOYFUL SOUND" Author="" Meter="7.6.7.6.7.7.7.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="133"  Title="With Joy and With Gladness There Stands a Great Throng" TitleSort="WITH JOY AND WITH GLADNESS THERE STANDS A GREAT THRONG" Author="" Meter="11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="134"  Title="Oh, What Will You Do With Jesus" TitleSort="OH WHAT WILL YOU DO WITH JESUS" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="101" ></hymn>
+  <hymn id="135"  Title="There Is No Other Name Than Thine" TitleSort="THERE IS NO OTHER NAME THAN THINE" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="136"  Title="When the Harvest Is Past and the Summer Is Gone" TitleSort="WHEN THE HARVEST IS PAST AND THE SUMMER IS GONE" Author="" Meter="12.8.12.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="137"  Title="He Left the Brightness of His Home" TitleSort="HE LEFT THE BRIGHTNESS OF HIS HOME" Author="" Meter="8.6.8.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="138"  Title="&#34;Whosoever Heareth,&#34; Shout, Shout the Sound" TitleSort="WHOSOEVER HEARETH SHOUT SHOUT THE SOUND" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="1" ></hymn>
+  <hymn id="139"  Title="What Can Wash Away My Sins" TitleSort="WHAT CAN WASH AWAY MY SINS" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="140"  Title="Will Your Anchor Hold in the Storms of Life" TitleSort="WILL YOUR ANCHOR HOLD IN THE STORMS OF LIFE" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="141"  Title="How Vast, How Full, How Free" TitleSort="HOW VAST HOW FULL HOW FREE" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="142"  Title="A Ruler Once Came to Jesus by Night" TitleSort="A RULER ONCE CAME TO JESUS BY NIGHT" Author="" Meter="P.M." StanzaIndent="1" ChorusIndent="0" ></hymn>
+  <hymn id="143"  Title="The Lord&#39;s My Shepherd, I&#39;ll Not Want" TitleSort="THE LORDS MY SHEPHERD ILL NOT WANT" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="144"  Title="&#34;A Little While&#34; the Lord Shall Come" TitleSort="A LITTLE WHILE THE LORD SHALL COME" Author="J.G. Deck" Meter="6-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="145"  Title="May the Grace of Christ Our Saviour" TitleSort="MAY THE GRACE OF CHRIST OUR SAVIOUR" Author="J. Newton" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="146"  Title="All the Path the Saints Are Treading" TitleSort="ALL THE PATH THE SAINTS ARE TREADING" Author="Mrs. J.A. Trench" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="147"  Title="And Did the Holy and the Just" TitleSort="AND DID THE HOLY AND THE JUST" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="148"  Title="Lord, While Our Souls in Faith Repose" TitleSort="LORD WHILE OUR SOULS IN FAITH REPOSE" Author="Mary Bowley" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="149"  Title="Blessed Assurance, Jesus Is Mine" TitleSort="BLESSED ASSURANCE JESUS IS MINE" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="150"  Title="Break Forth and Sing the Song" TitleSort="BREAK FORTH AND SING THE SONG" Author="Watts, 1709; altered by W. Hammond, 1745" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="151"  Title="&#34;No Condemnation&#34;--Precious Word" TitleSort="NO CONDEMNATION PRECIOUS WORD" Author="R. Chapman" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="152"  Title="Brightness of Th&#39; Eternal Glory" TitleSort="BRIGHTNESS OF TH ETERNAL GLORY" Author="Robinson" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="153"  Title="Jesus! Life-giving Sound" TitleSort="JESUS LIFE GIVING SOUND" Author="" Meter="6.6.6.6.8.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="154"  Title="The Atoning Work Is Done" TitleSort="THE ATONING WORK IS DONE" Author="T. Kelly, 1806" Meter="6.6.6.6.8.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="155"  Title="By Thee, O God, Invited" TitleSort="BY THEE O GOD INVITED" Author="Mary Bowley" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="156"  Title="Child of God, by Christ&#39;s Salvation" TitleSort="CHILD OF GOD BY CHRISTS SALVATION" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="157"  Title="Christ the Lord Is Coming" TitleSort="CHRIST THE LORD IS COMING" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="158"  Title="Come, Let Us Sing the Matchless Worth" TitleSort="COME LET US SING THE MATCHLESS WORTH" Author="Medley" Meter="8.8.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="159"  Title="God Be With You Till We Meet Again" TitleSort="GOD BE WITH YOU TILL WE MEET AGAIN" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="160"  Title="Though in a Foreign Land" TitleSort="THOUGH IN A FOREIGN LAND" Author="Toplady" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="161"  Title="God Moves in a Mysterious Way" TitleSort="GOD MOVES IN A MYSTERIOUS WAY" Author="Cowper, 1779" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="162"  Title="O Lord! &#39;Tis Joy to Look Above" TitleSort="O LORD TIS JOY TO LOOK ABOVE" Author="J.G. Deck" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="163"  Title="Guide Us, O Thou Gracious Saviour" TitleSort="GUIDE US O THOU GRACIOUS SAVIOUR" Author="W. Williams, 1774" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="164"  Title="Have I an Object, Lord, Below" TitleSort="HAVE I AN OBJECT LORD BELOW" Author="G.W. Frazer" Meter="6-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="165"  Title="Jesus! How Much Thy Name Unfolds" TitleSort="JESUS HOW MUCH THY NAME UNFOLDS" Author="Mary Bowley" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="166"  Title="In Hope We Lift Our Wishful, Longing Eyes" TitleSort="IN HOPE WE LIFT OUR WISHFUL LONGING EYES" Author="J.G. Deck" Meter="4-10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="167"  Title="I Know Not Why God&#39;s Wondrous Grace" TitleSort="I KNOW NOT WHY GODS WONDROUS GRACE" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="168"  Title="In Tenderness He Sought Me" TitleSort="IN TENDERNESS HE SOUGHT ME" Author="" Meter="P.M." StanzaIndent="10100" ChorusIndent="0" ></hymn>
+  <hymn id="169"  Title="Blest Be the Tie That Binds" TitleSort="BLEST BE THE TIE THAT BINDS" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="170"  Title="Jesus! Oh Name Divinely Sweet" TitleSort="JESUS OH NAME DIVINELY SWEET" Author="Stennett, 1790" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="171"  Title="On the Lamb Our Souls Are Resting" TitleSort="ON THE LAMB OUR SOULS ARE RESTING" Author="Tr. by Mrs. Bevan" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="172"  Title="Lamb of God, We Bow Before Thee" TitleSort="LAMB OF GOD WE BOW BEFORE THEE" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="173"  Title="Long Did I Toil, and Knew No Earthly Rest" TitleSort="LONG DID I TOIL AND KNEW NO EARTHLY REST" Author="" Meter="6-10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="174"  Title="&#34;Glory to God on High" TitleSort="GLORY TO GOD ON HIGH" Author="T. Kelly" Meter="6.6.4.6.6.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="175"  Title="Low in the Grave He Lay" TitleSort="LOW IN THE GRAVE HE LAY" Author="" Meter="6.5.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="176"  Title="Oh, What a Debt We Owe" TitleSort="OH WHAT A DEBT WE OWE" Author="G.V. Wigram" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="177"  Title="Nor Silver nor Gold Hath Obtained My Redemption" TitleSort="NOR SILVER NOR GOLD HATH OBTAINED MY REDEMPTION" Author="" Meter="" StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="178"  Title="Glory Unto Jesus Be" TitleSort="GLORY UNTO JESUS BE" Author="A.J. Rutherford" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="179"  Title="Nothing but Christ, as on We Tread" TitleSort="NOTHING BUT CHRIST AS ON WE TREAD" Author="S. O&#39;M Cluff" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="180"  Title="Whom Have We, Lord, but Thee" TitleSort="WHOM HAVE WE LORD BUT THEE" Author="Mary Bowley" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="181"  Title="O Head Once Full of Bruises" TitleSort="O HEAD ONCE FULL OF BRUISES" Author="Bernard of Clairvaux" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="182"  Title="O Jesus, Friend Unfailing" TitleSort="O JESUS FRIEND UNFAILING" Author="H.K. Burlingham, 1865, from German" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="183"  Title="O Lamb of God, Still Keep Us" TitleSort="O LAMB OF GOD STILL KEEP US" Author="J.G. Deck" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="184"  Title="Oh, Remember! Oh, Remember" TitleSort="OH REMEMBER OH REMEMBER" Author="" Meter="P.M." StanzaIndent="2" ChorusIndent="" ></hymn>
+  <hymn id="185"  Title="On His Father&#39;s Throne Is Seated" TitleSort="ON HIS FATHERS THRONE IS SEATED" Author="Miss H.K. Burlingham" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="186"  Title="One Day When Heaven Was Filled With His Praises" TitleSort="ONE DAY WHEN HEAVEN WAS FILLED WITH HIS PRAISES" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="187"  Title="Scarlet, Scarlet, Though Your Sins Be Scarlet" TitleSort="SCARLET SCARLET THOUGH YOUR SINS BE SCARLET" Author="" Meter="" StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="188"  Title="Our Lord Is Now Rejected" TitleSort="OUR LORD IS NOW REJECTED" Author="" Meter="" StanzaIndent="1010102" ChorusIndent="1010102" ></hymn>
+  <hymn id="189"  Title="Our Sins Were Borne by Jesus" TitleSort="OUR SINS WERE BORNE BY JESUS" Author="H. Bonar" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="190"  Title="Saviour! Lead Us by Thy Power" TitleSort="SAVIOUR LEAD US BY THY POWER" Author="W. Williams" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="191"  Title="Saviour, Through the Desert Lead Us" TitleSort="SAVIOUR THROUGH THE DESERT LEAD US" Author="T. Kelly" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="192"  Title="Simply Trusting Every Day" TitleSort="SIMPLY TRUSTING EVERY DAY" Author="" Meter="7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="193"  Title="There Comes to My Heart a Sweet Strain" TitleSort="THERE COMES TO MY HEART A SWEET STRAIN" Author="" Meter="" StanzaIndent="1" ChorusIndent="101" ></hymn>
+  <hymn id="194"  Title="Take the Name of Jesus With You" TitleSort="TAKE THE NAME OF JESUS WITH YOU" Author="" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="195"  Title="The Lord Himself Shall Come" TitleSort="THE LORD HIMSELF SHALL COME" Author="Montgomery, v. 3 J.N.D." Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="196"  Title="The Lord of Life Is Risen" TitleSort="THE LORD OF LIFE IS RISEN" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="197"  Title="The Saviour Is Coming" TitleSort="THE SAVIOUR IS COMING" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="198"  Title="There Is a Name We Love to Hear" TitleSort="THERE IS A NAME WE LOVE TO HEAR" Author="F. Whitfield" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="199"  Title="When We Survey the Wondrous Cross" TitleSort="WHEN WE SURVEY THE WONDROUS CROSS" Author="Watts" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="200"  Title="&#39;Tis the Hope of His Coming" TitleSort="TIS THE HOPE OF HIS COMING" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="201"  Title="When We Walk With the Lord" TitleSort="WHEN WE WALK WITH THE LORD" Author="" Meter="6.6.9.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="202"  Title="How Blest a Home--The Father&#39;s House" TitleSort="HOW BLEST A HOME THE FATHERS HOUSE" Author="Mrs. J.A. Trench" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="203"  Title="Shine Forth, O Lord, Thou Bright and Morning Star" TitleSort="SHINE FORTH O LORD THOU BRIGHT AND MORNING STAR" Author="" Meter="10s." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="204"  Title="A Little Talk With Jesus" TitleSort="A LITTLE TALK WITH JESUS" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="205"  Title="Asleep in Jesus, Blessed Sleep" TitleSort="ASLEEP IN JESUS BLESSED SLEEP" Author="Mrs. McKay" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="206"  Title="&#39;Tis Sweet to Think of Those at Rest" TitleSort="TIS SWEET TO THINK OF THOSE AT REST" Author="Tregelles, 1846" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="207"  Title="&#34;But for a Moment&#34;--This Valley of Sorrows" TitleSort="BUT FOR A MOMENT THIS VALLEY OF SORROWS" Author="" Meter="10.10.11.10." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="208"  Title="We&#39;ll Sing of the Shepherd That Died" TitleSort="WELL SING OF THE SHEPHERD THAT DIED" Author="T. Kelly" Meter="8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="209"  Title="Bright in the Glory" TitleSort="BRIGHT IN THE GLORY" Author="" Meter="P.M." StanzaIndent="101010100" ChorusIndent="" ></hymn>
+  <hymn id="210"  Title="On Calvary&#39;s Brow My Saviour Died" TitleSort="ON CALVARYS BROW MY SAVIOUR DIED" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="211"  Title="Christian, Walk Carefully: Danger Is Near" TitleSort="CHRISTIAN WALK CAREFULLY DANGER IS NEAR" Author="" Meter="P.M." StanzaIndent="111" ChorusIndent="" ></hymn>
+  <hymn id="212"  Title="It May Be at Morn, When the Day Is Awaking" TitleSort="IT MAY BE AT MORN WHEN THE DAY IS AWAKING" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="1201" ></hymn>
+  <hymn id="213"  Title="Thou My Everlasting Portion" TitleSort="THOU MY EVERLASTING PORTION" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="214"  Title="&#34;Forever With the Lord!&#34;" TitleSort="FOREVER WITH THE LORD" Author="J. Montgomery, 1835" Meter="S.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="215"  Title="Happy They Who Trust in Jesus" TitleSort="HAPPY THEY WHO TRUST IN JESUS" Author="T. Kelly" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="216"  Title="How Good Is the God We Adore" TitleSort="HOW GOOD IS THE GOD WE ADORE" Author="Hart, 1750" Meter="4-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="217"  Title="Oh Bright and Blessed Scenes" TitleSort="OH BRIGHT AND BLESSED SCENES" Author="J.N.D., 1867" Meter="S.M." StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="218"  Title="He Is Coming, Coming for Us" TitleSort="HE IS COMING COMING FOR US" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="219"  Title="His Be the Victor&#39;s Name" TitleSort="HIS BE THE VICTORS NAME" Author="Whitlock Gandy" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="220"  Title="I Am Not Told to Labor" TitleSort="I AM NOT TOLD TO LABOR" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="221"  Title="I Am Thine, O Lord; I Have Heard Thy Voice" TitleSort="I AM THINE O LORD I HAVE HEARD THY VOICE" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="222"  Title="I Heard the Voice of Jesus Say" TitleSort="I HEARD THE VOICE OF JESUS SAY" Author="H. Bonar" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="223"  Title="I See the Crowd in Pilate&#39;s Hall" TitleSort="I SEE THE CROWD IN PILATE" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="224"  Title="He Is Coming! Who Is Coming" TitleSort="HE IS COMING WHO IS COMING" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="225"  Title="I Left It All With Jesus Long Ago" TitleSort="I LEFT IT ALL WITH JESUS LONG AGO" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="226"  Title="I Once Was a Stranger to Grace and to God" TitleSort="I ONCE WAS A STRANGER TO GRACE AND TO GOD" Author="" Meter="5-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="227"  Title="I Was a Wandering Sheep" TitleSort="I WAS A WANDERING SHEEP" Author="" Meter="S.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="228"  Title="In Heavenly Love Abiding" TitleSort="IN HEAVENLY LOVE ABIDING" Author="Miss A.L. Waring" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="229"  Title="It Passeth Knowledge, That Dear Love of Thine" TitleSort="IT PASSETH KNOWLEDGE THAT DEAR LOVE OF THINE" Author="Mary Shackleton" Meter="10.10.10.10.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="230"  Title="I&#39;ve Found a Friend, Oh, Such a Friend" TitleSort="IVE FOUND A FRIEND OH SUCH A FRIEND" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="231"  Title="Jesus, That Name Is Love" TitleSort="JESUS THAT NAME IS LOVE" Author="J.G. Deck" Meter="6.4.6.4.6.6.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="232"  Title="Christ the Lord Will Come Again" TitleSort="CHRIST THE LORD WILL COME AGAIN" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="233"  Title="Now I Have Found a Friend" TitleSort="NOW I HAVE FOUND A FRIEND" Author="" Meter="6.4.6.4.6.6.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="234"  Title="Saviour, Lead Me, Lest I Stray" TitleSort="SAVIOUR LEAD ME LEST I STRAY" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="235"  Title="Lift up Your Heads, Eternal Gates" TitleSort="LIFT UP YOUR HEADS ETERNAL GATES" Author="" Meter="8.7.8.7." StanzaIndent="101" ChorusIndent="0" ></hymn>
+  <hymn id="236"  Title="Lo, He Comes, From Heaven Descending" TitleSort="LO HE COMES FROM HEAVEN DESCENDING" Author="V. 1, 4 &#38; 6, C. Wesley, 1758; v. 2, J. Cennick, 1752; combined by Madan, 1760" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="237"  Title="Lord, Thy Love Has Sought and Found Us" TitleSort="LORD THY LOVE HAS SOUGHT AND FOUND US" Author="J.J. Hopkins" Meter="8.7.8.7.7.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="238"  Title="Love Not the World: Its Smiles, Its Hopes" TitleSort="LOVE NOT THE WORLD ITS SMILES ITS HOPES" Author="" Meter="8.4.8.4.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="239"  Title="Midst the Darkness, Storm and Sorrow" TitleSort="MIDST THE DARKNESS STORM AND SORROW" Author="" Meter="8.5.8.5.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="240"  Title="Mighty, Mighty Love of Jesus" TitleSort="MIGHTY MIGHTY LOVE OF JESUS" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="241"  Title="The Love That Jesus Had for Me" TitleSort="THE LOVE THAT JESUS HAD FOR ME" Author="" Meter="8.8.8.6." StanzaIndent="101" ChorusIndent="1" ></hymn>
+  <hymn id="242"  Title="My God, I Have Found" TitleSort="MY GOD I HAVE FOUND" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="101" ></hymn>
+  <hymn id="243"  Title="My Heart Is Fixed, Eternal God" TitleSort="MY HEART IS FIXED ETERNAL GOD" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="244"  Title="One Priest Alone Can Pardon Me" TitleSort="ONE PRIEST ALONE CAN PARDON ME" Author="" Meter="P.M." StanzaIndent="10100" ChorusIndent="" ></hymn>
+  <hymn id="245"  Title="O Blessed, Precious Saviour" TitleSort="O BLESSED PRECIOUS SAVIOUR" Author="" Meter="P.M." StanzaIndent="1011010" ChorusIndent="" ></hymn>
+  <hymn id="246"  Title="Oh, for the Robe of Whiteness" TitleSort="OH FOR THE ROBE OF WHITENESS" Author="J.N.D., suggested by Miss C.L. Smith" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="247"  Title="O Gracious Saviour, Thou Hast Given" TitleSort="O GRACIOUS SAVIOUR THOU HAST GIVEN" Author="" Meter="8.6.8.6.6.6.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="248"  Title="Oh Happy Day That Fixed My Choice" TitleSort="OH HAPPY DAY THAT FIXED MY CHOICE" Author="" Meter="L.M." StanzaIndent="101" ChorusIndent="100010" ></hymn>
+  <hymn id="249"  Title="One There Is Above All Others" TitleSort="ONE THERE IS ABOVE ALL OTHERS" Author="Miss M. Nunn" Meter="8.4.8.4.8.8.8.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="250"  Title="O Lord! We Would Delight in Thee" TitleSort="O LORD WE WOULD DELIGHT IN THEE" Author="Ryland, 1777" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="251"  Title="O Lord, How Does Thy Mercy Throw" TitleSort="O LORD HOW DOES THY MERCY THROW" Author="Littlewood" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="252"  Title="A Mind at &#34;Perfect Peace&#34; With God" TitleSort="A MIND AT PERFECT PEACE WITH GOD" Author="C. Paget" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="253"  Title="Oh! Why Did Jesus Leave His Home" TitleSort="OH WHY DID JESUS LEAVE HIS HOME" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="254"  Title="Not All the Blood of Beasts" TitleSort="NOT ALL THE BLOOD OF BEASTS" Author="Watts, 1709" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="255"  Title="Not to Ourselves We Owe" TitleSort="NOT TO OURSELVES WE OWE" Author="Toplady" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="256"  Title="Someday I&#39;ll Quit This Vale of Tears" TitleSort="SOMEDAY ILL QUIT THIS VALE OF TEARS" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="257"  Title="Our Times Are in Thy Hand" TitleSort="OUR TIMES ARE IN THY HAND" Author="W.F. Lloyd, 1835" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="258"  Title="Many Sons to Glory Bringing" TitleSort="MANY SONS TO GLORY BRINGING" Author="Mary Bowley" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="259"  Title="Rock of Ages! Cleft for Sin" TitleSort="ROCK OF AGES CLEFT FOR SIN" Author="Toplady, 1776" Meter="6-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="260"  Title="Precious Word of Deepest Meaning" TitleSort="PRECIOUS WORD OF DEEPEST MEANING" Author="" Meter="8.7.8.7.8.7.8.7.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="261"  Title="Lord Jesus, Are We One With Thee" TitleSort="LORD JESUS ARE WE ONE WITH THEE" Author="J.G. Deck" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="262"  Title="Satisfied With Thee, Lord Jesus" TitleSort="SATISFIED WITH THEE LORD JESUS" Author="" Meter="P.M." StanzaIndent="3032223" ChorusIndent="" ></hymn>
+  <hymn id="263"  Title="The Glory Shines Before Me" TitleSort="THE GLORY SHINES BEFORE ME" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="264"  Title="The Perfect Righteousness of God" TitleSort="THE PERFECT RIGHTEOUSNESS OF GOD" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="265"  Title="We Joy in Our God, and We Sing of That Love" TitleSort="WE JOY IN OUR GOD AND WE SING OF THAT LOVE" Author="Yerbury, 1863" Meter="10.10.11.11." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="266"  Title="We&#39;ll Praise Thee, Glorious Lord" TitleSort="WELL PRAISE THEE GLORIOUS LORD" Author="J.N.D., 1881" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="267"  Title="There Is a Better World Above" TitleSort="THERE IS A BETTER WORLD ABOVE" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="268"  Title="There Is a Stream of Precious Blood" TitleSort="THERE IS A STREAM OF PRECIOUS BLOOD" Author="Cowper" Meter="8.6.8.6.6.6.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="269"  Title="This World Is a Wilderness Wide" TitleSort="THIS WORLD IS A WILDERNESS WIDE" Author="J.N.D., 1849" Meter="8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="270"  Title="And Is It So--I Shall Be Like Thy Son" TitleSort="AND IS IT SO I SHALL BE LIKE THY SON" Author="J.N.D., 1872" Meter="4-10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="271"  Title="The Sands of Time Are Sinking" TitleSort="THE SANDS OF TIME ARE SINKING" Author="Mrs. Cousins" Meter="7.6.7.6.7.6.7.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="272"  Title="Thou Art Coming, Loving Saviour" TitleSort="THOU ART COMING LOVING SAVIOUR" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="273"  Title="Up Yonder, in a Heavenly Mansion" TitleSort="UP YONDER IN A HEAVENLY MANSION" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="101" ></hymn>
+  <hymn id="274"  Title="Love Divine, All Praise Excelling" TitleSort="LOVE DIVINE ALL PRAISE EXCELLING" Author="C. Wesley" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="275"  Title="We Are by Christ Redeemed" TitleSort="WE ARE BY CHRIST REDEEMED" Author="Mary Bowley" Meter="6.6.8.4.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="276"  Title="We Sing of the Realms of the Blest" TitleSort="WE SING OF THE REALMS OF THE BLEST" Author="Mrs. E. Mills, 1829" Meter="4-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="277"  Title="We Speak of the Mercy of God" TitleSort="WE SPEAK OF THE MERCY OF GOD" Author="" Meter="4-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="278"  Title="We Hear the Words of Love" TitleSort="WE HEAR THE WORDS OF LOVE" Author="H. Bonar" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="279"  Title="I&#39;m Waiting for Thee, Lord" TitleSort="IM WAITING FOR THEE LORD" Author="H.K. Burlingham" Meter="12.11.12.11." StanzaIndent="110110" ChorusIndent="" ></hymn>
+  <hymn id="280"  Title="What, Sinner, Can You Do" TitleSort="WHAT SINNER CAN YOU DO" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="281"  Title="We Wait for Thee, O Son of God" TitleSort="WE WAIT FOR THEE O SON OF GOD" Author="Tr. by H.K. Burlingham, from German" Meter="8.7.8.7.8.7.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="282"  Title="What a Friend We Have in Jesus" TitleSort="WHAT A FRIEND WE HAVE IN JESUS" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="283"  Title="What Cheering Words Are These" TitleSort="WHAT CHEERING WORDS ARE THESE" Author="Kent" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="284"  Title="Jesus, My Lord, Who Died on the Cross" TitleSort="JESUS MY LORD WHO DIED ON THE CROSS" Author="" Meter="9.6.9.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="285"  Title="Well May We Sing, With Triumph Sing" TitleSort="WELL MAY WE SING WITH TRIUMPH SING" Author="G.V. Wigram" Meter="8.6.8.6.6.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="286"  Title="When Israel, by Divine Command" TitleSort="WHEN ISRAEL BY DIVINE COMMAND" Author="J. Newton" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="287"  Title="Oh! the Peace Forever Flowing" TitleSort="OH THE PEACE FOREVER FLOWING" Author="A.P. Cecil" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="288"  Title="Rise, My Soul! Behold, &#39;Tis Jesus" TitleSort="RISE MY SOUL BEHOLD TIS JESUS" Author="J. Denham Smith" Meter="8.7.8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="289"  Title="Who Is He in Yonder Stall" TitleSort="WHO IS HE IN YONDER STALL" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="0" ></hymn>
+  <hymn id="290"  Title="Praise the Saviour, Ye Who Know Him" TitleSort="PRAISE THE SAVIOUR YE WHO KNOW HIM" Author="T. Kelly" Meter="8.8.8.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="291"  Title="Glory, Glory Everlasting" TitleSort="GLORY GLORY EVERLASTING" Author="T. Kelly" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="292"  Title="What Will It Be to Dwell Above" TitleSort="WHAT WILL IT BE TO DWELL ABOVE" Author="Swain, 1792" Meter="6-8s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="293"  Title="A Little Ship Was on the Sea" TitleSort="A LITTLE SHIP WAS ON THE SEA" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="294"  Title="Around the Throne of God in Heaven" TitleSort="AROUND THE THRONE OF GOD IN HEAVEN" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="295"  Title="Hark! the Voice of Jesus Calling" TitleSort="HARK THE VOICE OF JESUS CALLING" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="296"  Title="Awake! Awake! in Happy Song" TitleSort="AWAKE AWAKE IN HAPPY SONG" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="297"  Title="Christ Could Not Be Hid, for the Sinner Would Haste" TitleSort="CHRIST COULD NOT BE HID FOR THE SINNER WOULD HASTE" Author="" Meter="11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="298"  Title="Jesus Is Calling the Children" TitleSort="JESUS IS CALLING THE CHILDREN" Author="" Meter="8.4.8.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="299"  Title="Come, Children, and Learn of the Infinite Grace" TitleSort="COME CHILDREN AND LEARN OF THE INFINITE GRACE" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="300"  Title="If Little Children Knew the Love" TitleSort="IF LITTLE CHILDREN KNEW THE LOVE" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="301"  Title="Here&#39;s a Message of Love" TitleSort="HERES A MESSAGE OF LOVE" Author="" Meter="5.5.8.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="302"  Title="The Bible Tells Us Jesus Came" TitleSort="THE BIBLE TELLS US JESUS CAME" Author="" Meter="8.6.8.6.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="303"  Title="Jesus Christ Is Passing By" TitleSort="JESUS CHRIST IS PASSING BY" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="304"  Title="How Loving Is Jesus" TitleSort="HOW LOVING IS JESUS" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="305"  Title="The Saviour Is Loving, the Saviour Is Kind" TitleSort="THE SAVIOUR IS LOVING THE SAVIOUR IS KIND" Author="" Meter="4-11s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="306"  Title="Like a Little Wandering Lamb" TitleSort="LIKE A LITTLE WANDERING LAMB" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="307"  Title="How Many Children Say" TitleSort="HOW MANY CHILDREN SAY" Author="" Meter="6.6.6.6.8.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="308"  Title="I Love to Hear the Story" TitleSort="I LOVE TO HEAR THE STORY" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="309"  Title="I Think When I Read That Sweet Story of Old" TitleSort="I THINK WHEN I READ THAT SWEET STORY OF OLD" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="310"  Title="Come to Jesus, Come to Jesus" TitleSort="COME TO JESUS COME TO JESUS" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="311"  Title="Children, Can You Tell Me Why" TitleSort="CHILDREN CAN YOU TELL ME WHY" Author="" Meter="6-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="312"  Title="Jesus Loves Me, This I Know" TitleSort="JESUS LOVES ME THIS I KNOW" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="313"  Title="&#34;God Is in Heaven: Can He Hear" TitleSort="GOD IS IN HEAVEN CAN HE HEAR" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="314"  Title="Dear Children, Have You Ever Heard" TitleSort="DEAR CHILDREN HAVE YOU EVER HEARD" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="315"  Title="Jesus Loves the Little Ones" TitleSort="JESUS LOVES THE LITTLE ONES" Author="" Meter="P.M." StanzaIndent="1012" ChorusIndent="" ></hymn>
+  <hymn id="316"  Title="Children Once to Israel&#39;s King" TitleSort="CHILDREN ONCE TO ISRAELS KING" Author="" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="317"  Title="The Lord Attends When Children Pray" TitleSort="THE LORD ATTENDS WHEN CHILDREN PRAY" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="318"  Title="The Infant Children Christ Received" TitleSort="THE INFANT CHILDREN CHRIST RECEIVED" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="319"  Title="Little Child, Do You Love Jesus" TitleSort="LITTLE CHILD DO YOU LOVE JESUS" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="320"  Title="Only an Act of Kindness" TitleSort="ONLY AN ACT OF KINDNESS" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="0" ></hymn>
+  <hymn id="321"  Title="And Is It True, as I Am Told" TitleSort="AND IS IT TRUE AS I AM TOLD" Author="" Meter="8.8.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="322"  Title="Oh! Come to Jesus, Children, Come" TitleSort="OH COME TO JESUS CHILDREN COME" Author="" Meter="8.6.8.6.8.8.8.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="323"  Title="There&#39;s a Friend for Little Children" TitleSort="THERES A FRIEND FOR LITTLE CHILDREN" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="324"  Title="Into a Tent Where a Gypsy Boy Lay" TitleSort="INTO A TENT WHERE A GYPSY BOY LAY" Author="" Meter="10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="325"  Title="Suffer Little Children" TitleSort="SUFFER LITTLE CHILDREN" Author="" Meter="P.M." StanzaIndent="10100" ChorusIndent="" ></hymn>
+  <hymn id="326"  Title="To Israel&#39;s Land, When Israel Sinned" TitleSort="TO ISRAELS LAND WHEN ISRAEL SINNED" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="327"  Title="When Mothers of Salem Their Children Brought to Jesus" TitleSort="WHEN MOTHERS OF SALEM THEIR CHILDREN BROUGHT TO JESUS" Author="" Meter="P.M." StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="328"  Title="A Little Child of Seven" TitleSort="A LITTLE CHILD OF SEVEN" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="329"  Title="A Little Lamb Went Straying" TitleSort="A LITTLE LAMB WENT STRAYING" Author="" Meter="7.6.7.6.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="330"  Title="A Message Came From Heaven" TitleSort="A MESSAGE CAME FROM HEAVEN" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="0" ></hymn>
+  <hymn id="331"  Title="For God So Loved the World" TitleSort="FOR GOD SO LOVED THE WORLD" Author="" Meter="" StanzaIndent="101010" ChorusIndent="" ></hymn>
+  <hymn id="332"  Title="Christ the Saviour of Sinners Came" TitleSort="CHRIST THE SAVIOUR OF SINNERS CAME" Author="" Meter="P.M." StanzaIndent="10100" ChorusIndent="101" ></hymn>
+  <hymn id="333"  Title="Come to the Saviour, Make No Delay" TitleSort="COME TO THE SAVIOUR MAKE NO DELAY" Author="" Meter="9.9.9.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="334"  Title="Glad T-I-D-I-N-G-S" TitleSort="GLAD T I D I N G S" Author="" Meter="" StanzaIndent="1010010" ChorusIndent="" ></hymn>
+  <hymn id="335"  Title="I Am So Glad That Our Father in Heaven" TitleSort="I AM SO GLAD THAT OUR FATHER IN HEAVEN" Author="" Meter="10s." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="336"  Title="I Am the Door, I Am the Door" TitleSort="I AM THE DOOR I AM THE DOOR" Author="" Meter="" StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="337"  Title="If I Come to Jesus" TitleSort="IF I COME TO JESUS" Author="" Meter="6.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="338"  Title="I Love My Saviour, My Precious Saviour" TitleSort="I LOVE MY SAVIOUR MY PRECIOUS SAVIOUR" Author="" Meter="10.8." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="339"  Title="I Love to Sing of Jesus" TitleSort="I LOVE TO SING OF JESUS" Author="" Meter="7.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="340"  Title="Happy Is the Boy Who Believes in Him" TitleSort="HAPPY IS THE BOY WHO BELIEVES IN HIM" Author="" Meter="" StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="341"  Title="Jesus Bids Us Shine" TitleSort="JESUS BIDS US SHINE" Author="" Meter="" StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="342"  Title="Jesus Came From Heaven" TitleSort="JESUS CAME FROM HEAVEN" Author="" Meter="" StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="343"  Title="Jesus Is Our Shepherd" TitleSort="JESUS IS OUR SHEPHERD" Author="" Meter="6.5.6.5.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="344"  Title="Jesus, My Saviour, to Bethlehem Came" TitleSort="JESUS MY SAVIOUR TO BETHLEHEM CAME" Author="" Meter="" StanzaIndent="22202" ChorusIndent="" ></hymn>
+  <hymn id="345"  Title="Jesus Loves the Little Children" TitleSort="JESUS LOVES THE LITTLE CHILDREN" Author="" Meter="" StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="346"  Title="Jesus, Who Lives Above the Sky" TitleSort="JESUS WHO LIVES ABOVE THE SKY" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="347"  Title="Jesus, When He Left the Sky" TitleSort="JESUS WHEN HE LEFT THE SKY" Author="" Meter="7.7.7.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="348"  Title="Little Children, Heavy-laden" TitleSort="LITTLE CHILDREN HEAVY LADEN" Author="" Meter="8.5.8.3." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="349"  Title="News for Little Children" TitleSort="NEWS FOR LITTLE CHILDREN" Author="" Meter="6.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="350"  Title="Hear Christ Calling, &#34;Come Unto Me" TitleSort="HEAR CHRIST CALLING COME UNTO ME" Author="" Meter="" StanzaIndent="11101" ChorusIndent="" ></hymn>
+  <hymn id="351"  Title="One Door and Only One" TitleSort="ONE DOOR AND ONLY ONE" Author="" Meter="" StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="352"  Title="Oh, Won&#39;t You Come to Jesus While You&#39;re Young" TitleSort="OH WONT YOU COME TO JESUS WHILE YOURE YOUNG" Author="" Meter="P.M." StanzaIndent="110" ChorusIndent="" ></hymn>
+  <hymn id="353"  Title="Come to Jesus, Come Today" TitleSort="COME TO JESUS COME TODAY" Author="" Meter="" StanzaIndent="101" ChorusIndent="" ></hymn>
+  <hymn id="354"  Title="Oh! Would You Know My Saviour" TitleSort="OH WOULD YOU KNOW MY SAVIOUR" Author="" Meter="C.M.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="355"  Title="Safe in Christ, the Weakest Child" TitleSort="SAFE IN CHRIST THE WEAKEST CHILD" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="356"  Title="Sing the Saviour&#39;s Praises; Little Children, Sing" TitleSort="SING THE SAVIOUR LITTLE CHILDREN SING" Author="" Meter="" StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="357"  Title="A Certain Man of Whom We Read" TitleSort="A CERTAIN MAN OF WHOM WE READ" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="358"  Title="Tell Me the Story of Jesus" TitleSort="TELL ME THE STORY OF JESUS" Author="" Meter="8.7." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="359"  Title="Those Who Are Young, O God" TitleSort="THOSE WHO ARE YOUNG O GOD" Author="" Meter="6.4.6.4.6.6.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="360"  Title="There Is a City Bright" TitleSort="THERE IS A CITY BRIGHT" Author="" Meter="6.6.5.5.6." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="361"  Title="There Is a Happy Land" TitleSort="THERE IS A HAPPY LAND" Author="" Meter="6.4.6.4.6.7.6.4." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="362"  Title="Two Little Eyes to Look to God" TitleSort="TWO LITTLE EYES TO LOOK TO GOD" Author="" Meter="L.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="363"  Title="Long Ago a Flood Was Coming" TitleSort="LONG AGO A FLOOD WAS COMING" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="364"  Title="Little Children, Praise the Saviour" TitleSort="LITTLE CHILDREN PRAISE THE SAVIOUR" Author="" Meter="8.7.8.7.D." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="365"  Title="We Are Glad We Ever Heard the Blessed News" TitleSort="WE ARE GLAD WE EVER HEARD THE BLESSED NEWS" Author="" Meter="" StanzaIndent="1" ChorusIndent="10001" ></hymn>
+  <hymn id="366"  Title="We Are Little Children, Very Young Indeed" TitleSort="WE ARE LITTLE CHILDREN VERY YOUNG INDEED" Author="" Meter="11.11.11.12." StanzaIndent="0" ChorusIndent="101" ></hymn>
+  <hymn id="367"  Title="When He Cometh, When He Cometh" TitleSort="WHEN HE COMETH WHEN HE COMETH" Author="" Meter="8.6.8.5." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="368"  Title="Who Came Down From Heaven to Earth" TitleSort="WHO CAME DOWN FROM HEAVEN TO EARTH" Author="" Meter="P.M." StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="369"  Title="I Claim for My Own a King on a Throne" TitleSort="I CLAIM FOR MY OWN A KING ON A THRONE" Author="" Meter="" StanzaIndent="101" ChorusIndent="100001" ></hymn>
+  <hymn id="370"  Title="Yield Not to Temptation" TitleSort="YIELD NOT TO TEMPTATION" Author="" Meter="11.11.11.12." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="371"  Title="Years I Spent in Vanity and Pride" TitleSort="YEARS I SPENT IN VANITY AND PRIDE" Author="" Meter="" StanzaIndent="3" ChorusIndent="3" ></hymn>
+  <hymn id="372"  Title="How Wondrous a Saviour Is God&#39;s Blessed Son" TitleSort="HOW WONDROUS A SAVIOUR IS GODS BLESSED SON" Author="" Meter="4-11s." StanzaIndent="0" ChorusIndent="" ></hymn>
+  <hymn id="373"  Title="The Master Is Come. O Thou Lost One, Arise" TitleSort="THE MASTER IS COME O THOU LOST ONE ARISE" Author="" Meter="" StanzaIndent="10101011" ChorusIndent="" ></hymn>
+  <hymn id="374"  Title="Oh, Come to Jesus, Sinner, Come" TitleSort="OH COME TO JESUS SINNER COME" Author="" Meter="C.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="375"  Title="O Soul, Are You Weary and Troubled" TitleSort="O SOUL ARE YOU WEARY AND TROUBLED" Author="" Meter="" StanzaIndent="101" ChorusIndent="101" ></hymn>
+  <hymn id="376"  Title="Now Have I Seen Thee and Found Thee" TitleSort="NOW HAVE I SEEN THEE AND FOUND THEE" Author="" Meter="P.M." StanzaIndent="1010101" ChorusIndent="" ></hymn>
+  <hymn id="377"  Title="&#34;Revive Thy Work, O Lord!&#34;" TitleSort="REVIVE THY WORK O LORD" Author="" Meter="S.M." StanzaIndent="" ChorusIndent="" ></hymn>
+  <hymn id="378"  Title="The Father, From Eternity" TitleSort="THE FATHER FROM ETERNITY" Author="" Meter="P.M." StanzaIndent="10012020" ChorusIndent="" ></hymn>
+  <hymn id="379"  Title="O My Saviour Crucified" TitleSort="O MY SAVIOUR CRUCIFIED" Author="R. Chapman" Meter="4-7s." StanzaIndent="" ChorusIndent="" ></hymn>
+</hymns>
