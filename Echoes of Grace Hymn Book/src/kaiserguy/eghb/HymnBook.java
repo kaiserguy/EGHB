@@ -6,6 +6,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.regex.Pattern;
+
+import kaiserguy.eghb.R;
+
 import org.xmlpull.v1.XmlPullParserException;
 
 public class HymnBook {
@@ -68,59 +72,100 @@ public class HymnBook {
 			String hymnTableStart = "<table style='color:#DDDDDD; font-family:serif; vertical-align:top;'>";
 			String hymnHTML = "";
 			Stanza currentStanza;
+			String currentIndent;
 			for (int s = 0; s < stanzas.size(); s++) {
 				hymnHTML += "<tr><td style='vertical-align:top;'>";
-				hymnHTML += Integer.toString(s + 1)	+ "</td><td>";
 				currentStanza = stanzas.get(s);
-				if (defined){
-					String stanzaText = currentStanza.lines[0] + "<br />";
-					for (int l = 0; l < currentStanza.lines.length; l++) {
-						if (stanzaIndent.length() > 0){
-							switch (stanzaIndent.charAt(l-1)){
-							case '0':
-								stanzaText += currentStanza.lines[l] + "<br />";
-								break;
-							case '1':
-								stanzaText += "&nbsp;" + currentStanza.lines[l] + "<br />";
-								break;
-							}
-						} else {
-							stanzaText += currentStanza.lines[l] + "<br />";
+				currentIndent = stanzaIndent;
+				if(chorusIndent.length()!=0){ //check for the presence of a chorus
+					if (s!=1){
+						if (s>1){
+							hymnHTML += Integer.toString(s);
+						}else{
+							hymnHTML += "1";
 						}
+					}else{
+						currentIndent = chorusIndent;
 					}
-					hymnHTML += stanzaText.replaceAll("\\b(\\w{3,40})\\b", "<a href='http://www.merriam-webster.com/dictionary/$1' style='color:White'>$1</a>");	
+				}else{
+					hymnHTML += Integer.toString(s+1);
+				}
+				hymnHTML += "</td><td>";
+				if (defined) {
+					String stanzaText = "";
+					for (int l = 0; l < currentStanza.lines.length; l++) {
+						for (int i=0;i < Integer.parseInt(String.valueOf(currentIndent.charAt(l)));i++){
+							stanzaText += "&nbsp;";
+						}
+						stanzaText += currentStanza.lines[l] + "<br />";
+					}
+					hymnHTML += stanzaText
+							.replaceAll(
+									"\\b(\\w{3,40})\\b",
+									"<a href='http://www.merriam-webster.com/dictionary/$1' style='color:White'>$1</a>");
 				} else {
 					String firstHalf = "";
-					String stanzaText = currentStanza.lines[0] + "<br />";
+					String stanzaText = "";
 					
-					for (int l = 1; l < currentStanza.lines.length; l++) {
-						if (stanzaIndent.length() > 0){
-							switch (stanzaIndent.charAt(l-1)){
-							case '0':
-								stanzaText += currentStanza.lines[l] + "<br />";
-								break;
-							case '1':
-								stanzaText += "&nbsp;" + currentStanza.lines[l] + "<br />";
-								break;
-							}
-						} else {
-							stanzaText += currentStanza.lines[l] + "<br />";
+					for (int l = 0; l < currentStanza.lines.length; l++) {
+						int intIndentIndex = Integer.parseInt(String.valueOf(currentIndent.charAt(l)));
+						for (int i=0;i < intIndentIndex;i++){
+							stanzaText += "&nbsp;";
 						}
-						if (l == (int)(currentStanza.lines.length * 0.5) - 1) {
+						if (s == 0 && l == 0){
+							// Find first letter and add styling for drop caps
+							String firstLetterCSS = "<span style='float: left;font-size: 2.6em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>";
+							// String firstLetterCSS1 = "<span style='display: block;float: left; margin-top : -0.205em;margin-left : -0.56em; margin-right:0.5em;height:4.5em;'>";
+							// String firstLetterCSS2 = "<span style='font-size: 3.33em; line-height  : 1.0em;'>";
+							//String firstWordCSS = "<div style='float: left;text-transform: uppercase;'>";
+							//String firstLineCSS = "<span style='margin-left  : -0.5em;'>";
+							int firstLetter = 0;
+							int firstSpace = 0;
+							boolean bad = false;
+							Pattern p = Pattern.compile("[|i“\"’]");
+							
+							do {
+								bad = false;
+								firstLetter++;
+								String letter = currentStanza.lines[l].substring(firstLetter-1,firstLetter);
+								if (p.matcher(letter).find()){ 
+									bad = true; 
+								} 
+							} while(bad); 
+							
+							do {
+								bad = false;
+								firstSpace++;
+								if (!(" ".equals(currentStanza.lines[l].substring(firstSpace-1,firstSpace)))){ 
+									bad = true; 
+								} 
+							} while(bad); 
+							
+							stanzaText += firstLetterCSS + currentStanza.lines[l].substring(0,firstLetter) + "</span>";
+							stanzaText += currentStanza.lines[l].substring(firstLetter,firstSpace).toUpperCase();
+							stanzaText += currentStanza.lines[l].substring(firstSpace) + "<br />";
+							//stanzaText += currentStanza.lines[l] + "<br />";	
+						} else{
+							stanzaText += currentStanza.lines[l] + "<br />";	
+						}
+						
+						if (l == (int) (currentStanza.lines.length * 0.5) - 1) {
 							firstHalf = stanzaText;
 							stanzaText = "";
 						}
 					}
-					hymnHTML += "<span id='" + s + "' onclick=\"smoothScroll('" + (s-1) + "');\">" +  firstHalf
-					+ "</span><span onclick=\"smoothScroll('" + (s+1) + "');\">" + stanzaText + "</a>";
+					hymnHTML += "<span id='" + s + "' onclick=\"smoothScroll('"
+							+ (s - 1) + "');\">" + firstHalf
+							+ "</span><span onclick=\"smoothScroll('" + (s + 1)
+							+ "');\">" + stanzaText + "</a>";
 				}
 
 				hymnHTML += "<br /></td></tr>";
 			}
-			//.replace("||sp||", "&nbsp;")
-			//.replace("\n", "<br />");
-			//.replace("||i||", "<i>")
-			//.replace("||/i||", "</i>");
+			// .replace("||sp||", "&nbsp;")
+			// .replace("\n", "<br />");
+			// .replace("||i||", "<i>")
+			// .replace("||/i||", "</i>");
 
 			hymnHTML = hymnTableStart + hymnHTML + "</table>";
 
@@ -238,7 +283,17 @@ public class HymnBook {
 		int intPreviousHymnNumber = 0;
 		Hymn currentHymn;
 		Stanza currentStanza;
-		XmlResourceParser xrpLines = resources.getXml(R.xml.hymnlines);
+		XmlResourceParser xrpLines;
+		for (int i=0; i<4; i++){
+			if (i==0){
+				xrpLines = resources.getXml(R.xml.hymnlines_1);
+			}else if (i==1){
+				xrpLines = resources.getXml(R.xml.hymnlines_2);
+			}else if (i==2){
+				xrpLines = resources.getXml(R.xml.hymnlines_3);
+			}else{
+				xrpLines = resources.getXml(R.xml.hymnlines_4);
+			}
 		try {
 		
 		while (xrpLines.getName() == null) {
@@ -281,6 +336,7 @@ public class HymnBook {
 			e.printStackTrace();
 		}
 		xrpLines.close();
+		}
 		mLoaded = true;
 	}
 
