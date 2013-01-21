@@ -42,30 +42,13 @@ public class HymnBook {
 		public String getText() {
 			String hymnText = "";
 			for (int s = 0; s < stanzas.size() - 1; s++) {
-				hymnText += Integer.toString(s + 1) + " ";
-				for (int l = 0; l < stanzas.get(s).lines.length; l++) {
-					hymnText += stanzas.get(s).lines[l];
-				}
-				hymnText += "\n";
+				hymnText += stanzas.get(s).getText();
 			}
-			hymnText = hymnText
-			.replaceAll("\\|\\|/?i\\|\\|","")
-			.replace("||sp||"," ");
 			return hymnText;
 		}
 
 		public String getStanzaText(int stanza) {
-			String hymnText = "";
-
-			hymnText = hymnText + Integer.toString(stanza + 1) + " ";
-			for (int l = 0; l < stanzas.get(stanza).lines.length; l++) {
-				hymnText += stanzas.get(stanza).lines[l];
-			}
-			hymnText += "\n";
-			hymnText = hymnText
-			.replaceAll("\\|\\|/?i\\|\\|","")
-			.replace("||sp||"," ");
-			return hymnText;
+			return stanzas.get(stanza).getText();
 		}
 
 		public String getHTML(boolean defined) {
@@ -86,6 +69,7 @@ public class HymnBook {
 						}
 					}else{
 						currentIndent = chorusIndent;
+						hymnHTML += "</td><td></td><tr><td id='refrain' colspan='2'><b>Refrain:</b><br />&nbsp;</td></tr><tr><td>&nbsp;";
 					}
 				}else{
 					hymnHTML += Integer.toString(s+1);
@@ -112,42 +96,8 @@ public class HymnBook {
 						for (int i=0;i < intIndentIndex;i++){
 							stanzaText += "&nbsp;";
 						}
-						if (s == 0 && l == 0){
-							// Find first letter and add styling for drop caps
-							String firstLetterCSS = "<span style='float: left;font-size: 2.6em;line-height: 1;margin-right: 0.1em;margin-top: -0.1em;'>";
-							// String firstLetterCSS1 = "<span style='display: block;float: left; margin-top : -0.205em;margin-left : -0.56em; margin-right:0.5em;height:4.5em;'>";
-							// String firstLetterCSS2 = "<span style='font-size: 3.33em; line-height  : 1.0em;'>";
-							//String firstWordCSS = "<div style='float: left;text-transform: uppercase;'>";
-							//String firstLineCSS = "<span style='margin-left  : -0.5em;'>";
-							int firstLetter = 0;
-							int firstSpace = 0;
-							boolean bad = false;
-							Pattern p = Pattern.compile("[|i“\"’]");
-							
-							do {
-								bad = false;
-								firstLetter++;
-								String letter = currentStanza.lines[l].substring(firstLetter-1,firstLetter);
-								if (p.matcher(letter).find()){ 
-									bad = true; 
-								} 
-							} while(bad); 
-							
-							do {
-								bad = false;
-								firstSpace++;
-								if (!(" ".equals(currentStanza.lines[l].substring(firstSpace-1,firstSpace)))){ 
-									bad = true; 
-								} 
-							} while(bad); 
-							
-							stanzaText += firstLetterCSS + currentStanza.lines[l].substring(0,firstLetter) + "</span>";
-							stanzaText += currentStanza.lines[l].substring(firstLetter,firstSpace).toUpperCase();
-							stanzaText += currentStanza.lines[l].substring(firstSpace) + "<br />";
-							//stanzaText += currentStanza.lines[l] + "<br />";	
-						} else{
-							stanzaText += currentStanza.lines[l] + "<br />";	
-						}
+						
+						stanzaText += currentStanza.lines[l] + "<br />";	
 						
 						if (l == (int) (currentStanza.lines.length * 0.5) - 1) {
 							firstHalf = stanzaText;
@@ -162,10 +112,6 @@ public class HymnBook {
 
 				hymnHTML += "<br /></td></tr>";
 			}
-			// .replace("||sp||", "&nbsp;")
-			// .replace("\n", "<br />");
-			// .replace("||i||", "<i>")
-			// .replace("||/i||", "</i>");
 
 			hymnHTML = hymnTableStart + hymnHTML + "</table>";
 
@@ -180,6 +126,20 @@ public class HymnBook {
 
 		public Stanza(int number) {
 			this.number = number;
+		}
+		
+		public String getText() {
+			String stanzaText = "";
+
+			stanzaText = stanzaText + Integer.toString(number) + " ";
+			for (int l = 0; l < lines.length; l++) {
+				stanzaText += lines[l];
+			}
+			stanzaText += "\n";
+			stanzaText = stanzaText
+			.replaceAll("\\|\\|/?i\\|\\|","")
+			.replace("||sp||"," ");
+			return stanzaText;
 		}
 	}
 
